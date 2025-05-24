@@ -1,1 +1,6 @@
- 
+flask
+flask-admin
+flask-sqlalchemy
+pytest
+pytest-cov
+flake8
